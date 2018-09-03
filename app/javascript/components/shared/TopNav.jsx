@@ -19,12 +19,12 @@ const TopNav = () => (
         </li>
       </ul>
       <h1>
-        <Link to='/'>Trello</Link>
+        <Link to='/'>Reaction</Link>
       </h1>
       <ul className="user-info">
         <li className="create-icon icon"></li>
-        <li className="split-button-1">VR</li>
-        <li className="split-button-2">Victor Reyes</li>
+        <li className="split-button-1">RM</li>
+        <li className="split-button-2">Ryann McQuilton</li>
         <li className="info-icon icon"></li>
         <li className="notifications-icon icon"></li>
       </ul>
